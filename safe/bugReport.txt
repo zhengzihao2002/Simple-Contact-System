@@ -1,0 +1,2 @@
+Common Bugs:
+1. Wrong Separator causing program to exit abnormally or not running at all
